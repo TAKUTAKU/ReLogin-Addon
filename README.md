@@ -18,6 +18,6 @@ PC　右のReleaseから
 
 下の〇〇.mcaddon(.mcpack)っていう青い奴をクリックすると、 ダウンロードできます！
 
-# Change Log
+# Version Log
 
 ・0.0.1　Minecraft 1.19.40 作成
